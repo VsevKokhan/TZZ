@@ -1,0 +1,12 @@
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Application\bin\Debug\net6.0\EventMonitoringSystem.Core.Application.deps.json
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Application\bin\Debug\net6.0\EventMonitoringSystem.Core.Application.dll
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Application\bin\Debug\net6.0\EventMonitoringSystem.Core.Application.pdb
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Application\obj\Debug\net6.0\EventMonitoringSystem.Core.Application.csproj.AssemblyReference.cache
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Application\obj\Debug\net6.0\EventMonitoringSystem.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Application\obj\Debug\net6.0\EventMonitoringSystem.Core.Application.AssemblyInfoInputs.cache
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Application\obj\Debug\net6.0\EventMonitoringSystem.Core.Application.AssemblyInfo.cs
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Application\obj\Debug\net6.0\EventMonitoringSystem.Core.Application.csproj.CoreCompileInputs.cache
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Application\obj\Debug\net6.0\EventMonitoringSystem.Core.Application.dll
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Application\obj\Debug\net6.0\refint\EventMonitoringSystem.Core.Application.dll
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Application\obj\Debug\net6.0\EventMonitoringSystem.Core.Application.pdb
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Application\obj\Debug\net6.0\ref\EventMonitoringSystem.Core.Application.dll

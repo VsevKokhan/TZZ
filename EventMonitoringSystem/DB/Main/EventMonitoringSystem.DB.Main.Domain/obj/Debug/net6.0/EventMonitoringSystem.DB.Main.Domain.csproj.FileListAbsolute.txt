@@ -1,0 +1,17 @@
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\bin\Debug\net6.0\EventMonitoringSystem.DB.Main.Domain.deps.json
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\bin\Debug\net6.0\EventMonitoringSystem.DB.Main.Domain.dll
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\bin\Debug\net6.0\EventMonitoringSystem.DB.Main.Domain.pdb
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\bin\Debug\net6.0\EventMonitoringSystem.Core.Domain.dll
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\bin\Debug\net6.0\EventMonitoringSystem.Core.Domain.pdb
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\obj\Debug\net6.0\EventMonitoringSystem.DB.Main.Domain.csproj.AssemblyReference.cache
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\obj\Debug\net6.0\EventMonitoringSystem.DB.Main.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\obj\Debug\net6.0\EventMonitoringSystem.DB.Main.Domain.AssemblyInfoInputs.cache
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\obj\Debug\net6.0\EventMonitoringSystem.DB.Main.Domain.AssemblyInfo.cs
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\obj\Debug\net6.0\EventMonitoringSystem.DB.Main.Domain.csproj.CoreCompileInputs.cache
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\obj\Debug\net6.0\EventMon.106BF183.Up2Date
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\obj\Debug\net6.0\EventMonitoringSystem.DB.Main.Domain.dll
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\obj\Debug\net6.0\refint\EventMonitoringSystem.DB.Main.Domain.dll
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\obj\Debug\net6.0\EventMonitoringSystem.DB.Main.Domain.pdb
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\obj\Debug\net6.0\ref\EventMonitoringSystem.DB.Main.Domain.dll
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\bin\Debug\net6.0\EventMonitoringSystem.Core.Application.dll
+C:\Project\TZ\EventMonitoringSystem\DB\Main\EventMonitoringSystem.DB.Main.Domain\bin\Debug\net6.0\EventMonitoringSystem.Core.Application.pdb

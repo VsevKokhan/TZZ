@@ -1,0 +1,15 @@
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\bin\Debug\net6.0\EventMonitoringSystem.Core.Domain.deps.json
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\bin\Debug\net6.0\EventMonitoringSystem.Core.Domain.dll
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\bin\Debug\net6.0\EventMonitoringSystem.Core.Domain.pdb
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\obj\Debug\net6.0\EventMonitoringSystem.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\obj\Debug\net6.0\EventMonitoringSystem.Core.Domain.AssemblyInfoInputs.cache
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\obj\Debug\net6.0\EventMonitoringSystem.Core.Domain.AssemblyInfo.cs
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\obj\Debug\net6.0\EventMonitoringSystem.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\obj\Debug\net6.0\EventMonitoringSystem.Core.Domain.dll
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\obj\Debug\net6.0\refint\EventMonitoringSystem.Core.Domain.dll
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\obj\Debug\net6.0\EventMonitoringSystem.Core.Domain.pdb
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\obj\Debug\net6.0\ref\EventMonitoringSystem.Core.Domain.dll
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\bin\Debug\net6.0\EventMonitoringSystem.Core.Application.dll
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\bin\Debug\net6.0\EventMonitoringSystem.Core.Application.pdb
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\obj\Debug\net6.0\EventMonitoringSystem.Core.Domain.csproj.AssemblyReference.cache
+C:\Project\TZ\EventMonitoringSystem\Core\EventMonitoringSystem.Core.Domain\obj\Debug\net6.0\EventMon.2C7F2745.Up2Date
